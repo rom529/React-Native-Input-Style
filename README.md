@@ -1,4 +1,4 @@
-# React-Native-Input-S
+# React-Native-Input-Style
 
 Styled Input With Animation For React Native
 
@@ -7,11 +7,11 @@ Styled Input With Animation For React Native
 Use the package manager yarn / npm to install React-Native-Input-S.
 
 ```bash
-npm install react-native-input-s --save
+npm install react-native-input-style --save
 
 or
 
-yarn add react-native-input-s
+yarn add react-native-input-style
 ```
 
 ## Example
@@ -27,7 +27,7 @@ yarn add react-native-input-s
 ## Usage
 
 ```js
-import Input from 'react-native-input-s';
+import Input from 'react-native-input-style';
 
 <Input
   onlyEnglish
@@ -75,7 +75,6 @@ also:
 | label                   | string   | ------- | Label of input type.                         |
 | required                | boolean  | false   | The input value is necessary                 |
 | submit                  | function | ------- | On submit editing                            |
-| color                   | string   | red     | Color of the icon                            |
 | minLength               | number   | ------- | Minimum digits for value                     |
 | maxLength               | number   | ------- | Maximum digits for value                     |
 | min                     | number   | ------- | Minimum value of input value                 |

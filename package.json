@@ -1,9 +1,9 @@
 {
-  "name": "react-native-input-s",
-  "version": "1.0.0",
-  "description": "Styled Input With Animation For React Native",
+  "name": "react-native-input-style",
+  "version": "1.0.1",
+  "description": "Styled Input With Animation, label and error text For React Native",
   "main": "index.js",
-  "repository": "https://github.com/rom529/react-native-input-s",
+  "repository": "https://github.com/rom529/react-native-input-style",
   "author": "Rom Ovadia",
   "license": "MIT"
 }
