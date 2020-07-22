@@ -1,10 +1,10 @@
 # React-Native-Input-Style
 
-Styled Input With Animation For React Native
+Styled Input With Animation, Label and Error text For React Native
 
 ## Installation
 
-Use the package manager yarn / npm to install React-Native-Input-S.
+Use the package manager yarn / npm to install React-Native-Input-Style.
 
 ```bash
 npm install react-native-input-style --save
@@ -38,7 +38,7 @@ import Input from 'react-native-input-style';
   contain=" "
   autoCapitalize="sentences"
   errorText="Your name is invalid"
-  onInputChange={**YOUR_InputChangeHandler**}
+  onInputChange={YOUR_InputChangeHandler}
   initialValue=""
   outlined
   borderColor="blue"
@@ -55,7 +55,7 @@ import Input from 'react-native-input-style';
   maxLength={20}
   autoCapitalize="none"
   errorText="Your password is invalid"
-  onInputChange={**YOUR_InputChangeHandler**}
+  onInputChange={YOUR_InputChangeHandler}
   initialValue=""
   outlined
   borderColor="blue"
@@ -67,7 +67,7 @@ import Input from 'react-native-input-style';
 
 All the options of [React-Native-textinput](https://reactnative.dev/docs/textinput)
 
-also:
+More options:
 
 | Property                | Type     | Default | Description                                  |
 | ----------------------- | -------- | ------- | -------------------------------------------- |

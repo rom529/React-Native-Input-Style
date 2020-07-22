@@ -1,9 +1,26 @@
 {
   "name": "react-native-input-style",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Styled Input With Animation, label and error text For React Native",
   "main": "index.js",
   "repository": "https://github.com/rom529/react-native-input-style",
-  "author": "Rom Ovadia",
-  "license": "MIT"
+  "author": "CD-ROM <39781739+rom529@users.noreply.github.com>",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "native",
+    "input",
+    "style",
+    "styled",
+    "outlined",
+    "ios",
+    "android",
+    "react-native",
+    "react-input",
+    "material",
+    "field",
+    "label",
+    "error",
+    "float"
+  ]
 }
